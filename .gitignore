@@ -1,9 +1,0 @@
-__pycache__/
-.venv/
-venv/
-.env
-.streamlit/secrets.toml
-student_data.csv
-student_model.pkl
-*.pyc
-.DS_Store
